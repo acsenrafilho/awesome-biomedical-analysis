@@ -29,7 +29,7 @@ We welcome contributions from everyone!
 
 Whether you want to add new tools, improve documentation, and so on, we’d love your input.
 
-📄 See CONTRIBUTING.md for guidelines.
+📄 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ---
 
@@ -40,3 +40,22 @@ For questions, feedback, or collaborations:
 
 💬 Or open an [issue](https://github.com/acsenrafilho/awesome-biomedical-analysis/issues)
 
+---
+
+# Full list of frameworks and tools
+
+| Name | Type | Description | Link |
+|------|------|-------------|------|
+| SimpleITK | Image Processing | Simplified interface to ITK for medical image analysis | [GitHub](https://github.com/SimpleITK/SimpleITK) |
+| BioSPPy | Signal Processing | Toolbox for biosignal processing in Python | [GitHub](https://github.com/PIA-Group/BioSPPy) |
+| MNE-Python | Signal Analysis | Analysis of EEG, MEG, and other electrophysiological data | [GitHub](https://github.com/mne-tools/mne-python) |
+| MONAI | Deep Learning | Medical Open Network for AI, deep learning in healthcare imaging | [GitHub](https://github.com/Project-MONAI/MONAI) |
+| PyRadiomics | Feature Extraction | Extraction of radiomics features from medical images | [GitHub](https://github.com/AIM-Harvard/pyradiomics) |
+| NeuroKit2 | Signal Processing | User-friendly biosignal processing in Python | [GitHub](https://github.com/neuropsychology/NeuroKit) |
+| Dipy | Image Processing | Diffusion MRI analysis in Python | [GitHub](https://github.com/dipy/dipy) |
+| NiBabel | Image I/O | Access and analyze neuroimaging file formats | [GitHub](https://github.com/nipy/nibabel) |
+| OpenMS | Signal Analysis | Open-source software for mass spectrometry data analysis | [GitHub](https://github.com/OpenMS/OpenMS) |
+| scikit-image | Image Processing | Image processing routines for SciPy in Python | [GitHub](https://github.com/scikit-image/scikit-image) |
+| ANTsPy | Image Processing | A fast medical imaging analysis library in Python with algorithms for registration, segmentation, and more | [GitHub](https://github.com/ANTsX/ANTsPy) |
+| 3D Slicer | Image Processing | Open-source platform for medical image informatics and visualization | [GitHub](https://github.com/Slicer/Slicer) |
+| ImageJ (Fiji) | Image Processing | A "batteries-included" distribution of ImageJ 🔋 | [Github](https://github.com/fiji/fiji) |
