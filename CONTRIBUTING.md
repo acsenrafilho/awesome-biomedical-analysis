@@ -1,4 +1,3 @@
-````markdown
 # 🤝 Contributing to awesome-biomedical-analysis
 
 Thank you for your interest in contributing! 🎉  
@@ -27,9 +26,9 @@ git checkout -b your-feature-name
 
 ### 3. Make your changes
 
-* Add or modify code in the appropriate module (`image_processing/`, `signal_processing/`, etc.)
-* Write or update documentation and examples
-* Ensure your code is clean and commented
+* Add or modify information in the appropriate module 
+* Write or update your contribution
+* Ensure that it fits to the repository style and information pattern
 
 ### 4. Commit and push
 
@@ -43,16 +42,15 @@ git push origin your-feature-name
 
 Go to your fork on GitHub and click **"Compare & pull request"**.
 
-Please include a brief description of your contribution and reference any related issues.
+Please include a brief description of your contribution.
+
+Finally, just wait until the repository administratiors to revise your PR.
 
 ---
 
 ## ✅ Contribution Guidelines
 
-* Keep code modular, readable, and documented.
-* Add examples or usage if possible (especially in `notebooks/`).
-* Follow existing coding style (PEP8 for Python).
-* Test your code before submitting (unit tests or demos).
+* Keep your contribution clean and consistent to the repository theme
 * Be respectful and collaborative. We're building this together!
 
 ---
